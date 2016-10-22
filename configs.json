@@ -1,0 +1,14 @@
+{
+  "SECRET_KEY": "01234567890123456789012345678901234567890123456789",
+  "DEBUG": true,
+  "IGNORE_WECHAT_SIGNATURE": false,
+  "WECHAT_TOKEN": "abc",
+  "WECHAT_APPID": "wx83f2a2fa36b2e6f1",
+  "WECHAT_SECRET": "23311f26a1b4d62fb4a1c1046bc129b",
+  "DB_NAME": "new321",
+  "DB_USER": "root",
+  "DB_PASS": "abcd",
+  "DB_HOST": "127.0.0.1",
+  "DB_PORT": "3306",
+  "SITE_DOMAIN": "http://101.5.125.225/wechat"
+}
